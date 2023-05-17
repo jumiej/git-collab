@@ -9,22 +9,22 @@ function CardDown(){
         <>
             <div className="cards-section">
                 <div>
-                    <img src={img3} alt="perfume2"/>
+                    <img src={img3} alt="perfume2" className="card-img"/>
                     <p className="card-text">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, eaque adipisci ab, architecto quos tempore reiciendis provident natus dolor laudantium sunt quam quis quia est veniam maxime, blanditiis deserunt at?
                     </p>
                 </div>
 
                 <div>
-                <img src={img4} alt="perfume2"/>
-                <p>
+                <img src={img4} alt="perfume2" className="card-img"/>
+                <p className="card-text">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, eaque adipisci ab, architecto quos tempore reiciendis provident natus dolor laudantium sunt quam quis quia est veniam maxime, blanditiis deserunt at?
                 </p>
                 </div>
 
                 <div>
-                    <img src={img1} alt="perfume2"/>
-                    <p>
+                    <img src={img1} alt="perfume2" className="card-img card-3"/>
+                    <p className="card-text">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, eaque adipisci ab, architecto quos tempore reiciendis provident natus dolor laudantium sunt quam quis quia est veniam maxime, blanditiis deserunt at?
                     </p>
                 </div>
