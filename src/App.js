@@ -4,16 +4,13 @@ import NavDown from "./Components/NavDown";
 import CardDown from "./card-down/card-down";
 
 function App() {
-
   console.log("hello world");
   return (
     <div className="App">
-      <div>Hi Guys</div>
-
-      <CardDown/>
       <NavDown />
-      <Herosection />
+      <CardDown />
 
+      <Herosection />
     </div>
   );
 }
