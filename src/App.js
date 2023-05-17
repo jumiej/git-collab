@@ -1,15 +1,15 @@
-import './App.css';
-import Herosection from './hero-section/heroSection';
+import "./App.css";
+import Herosection from "./hero-section/heroSection";
+import NavDown from "./Components/NavDown";
 
 function App() {
 
-
-
-  console.log('hello world')
+  console.log("hello world");
   return (
     <div className="App">
       <div>Hi Guys</div>
-      <Herosection/>
+      <NavDown />
+      <Herosection />
     </div>
   );
 }
