@@ -2,13 +2,14 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 3rem 7rem;
+    padding: 3rem 9rem;
 }
 
 .card-text{
     font-size: 13px;
     text-align: center;
-    width: 300px;
+    width: 320px;
+    font-weight: 600;
 }
 
 .card-img{
