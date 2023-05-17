@@ -1,0 +1,21 @@
+.cards-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 9rem;
+}
+
+.card-text{
+    font-size: 13px;
+    text-align: center;
+    width: 320px;
+    font-weight: 600;
+}
+
+.card-img{
+    width: 300px;
+}
+
+.card-3{
+    height: 400px;
+}
