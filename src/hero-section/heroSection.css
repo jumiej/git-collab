@@ -1,6 +1,13 @@
 .jumie{
-    background-color: red;
-    width: 500px;
-    height: 400px;
-    text-align: centerr;
+    border:1px solid red;
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    padding-left: 50px;
+}
+.jumie-2 p{
+        line-height: 30px;
+        font-size: 22px;
+        font-weight: 600;
+        text-transform: capitalize;
 }
