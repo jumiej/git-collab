@@ -1,5 +1,5 @@
-import React from 'react'
-import imag2 from "../images/imag2 (1) comp.png"
+import React from 'react';
+import imag2 from "../images/imag2 (1) comp.png";
 
 function CardUp() {
   return (
