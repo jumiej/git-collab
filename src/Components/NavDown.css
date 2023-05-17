@@ -1,3 +1,6 @@
 .navDown {
-  color: red;
+  color: black;
+}
+.navDown ul {
+  list-style-type: none;
 }
