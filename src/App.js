@@ -1,5 +1,6 @@
 import './App.css';
 import Herosection from './hero-section/heroSection';
+import CardDown from './card-down/card-down';
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       <div>Hi Guys</div>
       <Herosection/>
+      <CardDown/>
     </div>
   );
 }
