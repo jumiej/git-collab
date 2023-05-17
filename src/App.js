@@ -1,17 +1,18 @@
-import './App.css';
-import Herosection from './hero-section/heroSection';
-import CardDown from './card-down/card-down';
+import "./App.css";
+import Herosection from "./hero-section/heroSection";
+import NavDown from "./Components/NavDown";
 
 function App() {
 
-
-
-  console.log('hello world')
+  console.log("hello world");
   return (
     <div className="App">
       <div>Hi Guys</div>
-      <Herosection/>
+
       <CardDown/>
+      <NavDown />
+      <Herosection />
+
     </div>
   );
 }

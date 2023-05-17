@@ -1,6 +1,6 @@
 import React from "react";
 import './heroSection.css';
-import img1 from "../images/img1.png"
+import img1 from "../images/img1.png";
 
 
 export default function Herosection(){
@@ -26,3 +26,4 @@ export default function Herosection(){
         </>
     )
 }
+
