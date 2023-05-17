@@ -7,8 +7,15 @@ function App() {
   console.log("hello world");
   return (
     <div className="App">
+
+
+      <div>Hi Guys</div>
+
+    
       <NavDown />
-      <CardDown />
+      <Herosection />
+      <CardDown/>
+
 
       <Herosection />
     </div>
